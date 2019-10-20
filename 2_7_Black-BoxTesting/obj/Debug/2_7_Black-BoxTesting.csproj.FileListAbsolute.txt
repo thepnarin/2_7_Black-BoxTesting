@@ -1,0 +1,6 @@
+C:\Users\TNykuka\source\repos\2_7_Black-BoxTesting\2_7_Black-BoxTesting\bin\Debug\2_7_Black-BoxTesting.exe.config
+C:\Users\TNykuka\source\repos\2_7_Black-BoxTesting\2_7_Black-BoxTesting\bin\Debug\2_7_Black-BoxTesting.exe
+C:\Users\TNykuka\source\repos\2_7_Black-BoxTesting\2_7_Black-BoxTesting\bin\Debug\2_7_Black-BoxTesting.pdb
+C:\Users\TNykuka\source\repos\2_7_Black-BoxTesting\2_7_Black-BoxTesting\obj\Debug\2_7_Black-BoxTesting.csprojAssemblyReference.cache
+C:\Users\TNykuka\source\repos\2_7_Black-BoxTesting\2_7_Black-BoxTesting\obj\Debug\2_7_Black-BoxTesting.exe
+C:\Users\TNykuka\source\repos\2_7_Black-BoxTesting\2_7_Black-BoxTesting\obj\Debug\2_7_Black-BoxTesting.pdb
